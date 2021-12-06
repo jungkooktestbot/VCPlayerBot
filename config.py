@@ -198,11 +198,11 @@ class Config:
 __You can play using any of these options__
 
 1. Play a video from a YouTube link.
-Command: **/play**
+Command: **/xplay**
 __You can use this as a reply to a YouTube link or pass link along command. or as a reply to message to search that in YouTube.__
 
 2. Play from a telegram file.
-Command: **/play**
+Command: **/xplay**
 __Reply to a supported media(video and documents or audio file ).__
 Note: __For both the cases /fplay also can be used by admins to play the song immediately without waiting for queue to end.__
 
